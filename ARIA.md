@@ -2,21 +2,21 @@
 
 ## Tabela de conteúdo
 
-  1. [Acessibilidade com ngAria](#acessibilidade-com-ngAria)
-    - [Incluindo ngAria](#incluindo-ngAria)
-  1. [Usando ngAria](#usando-ngAria)
+  1. [Acessibilidade com ngAria](#acessibilidade-com-ngaria)
+    - [Incluindo ngAria](#incluindo-ngaria)
+  1. [Usando ngAria](#usando-ngaria)
   1. [Diretivas suportadas](#diretivas-suportadas)
-    - [ngModel](#ngModel)
-    - [ngDisabled](#ngDisabled)
-    - [ngRequired](#ngRequired)
-    - [ngReadonly](#ngReadonly)
-    - [ngChecked](#ngChecked)
-    - [ngValue](#ngValue)
-    - [ngShow](#ngShow)
-    - [ngHide](#ngHide)
-    - [ngClick](#ngClick)
-    - [ngDblClick](#ngDblClick)
-    - [ngMessages](#ngMessages)
+    - [ngModel](#ngmodel)
+    - [ngDisabled](#ngdisabled)
+    - [ngRequired](#ngrequired)
+    - [ngReadonly](#ngreadonly)
+    - [ngChecked](#ngchecked)
+    - [ngValue](#ngvalue)
+    - [ngShow](#ngshow)
+    - [ngHide](#nghide)
+    - [ngClick](#ngclick)
+    - [ngDblClick](#ngdblclick)
+    - [ngMessages](#ngmessages)
   1. [Padrões Universais de Acessibilidade](padroes-universais-de-acessibilidade)
 
 # Acessibilidade com ngAria
@@ -49,17 +49,17 @@ testar algumas coisas:
 Currently, ngAria interfaces with the following directives:
 Atualmente ngAria interage com as seguintes diretivas
 
- * [ngModel](#ngModel)
- * [ngDisabled](#ngDisabled)
- * [ngRequired](#ngRequired)
- * [ngReadonly](#ngReadonly)
- * [ngChecked](#ngChecked)
- * [ngValue](#ngValue)
- * [ngShow](#ngShow)
- * [ngHide](#ngHide)
- * [ngClick](#ngClick)
- * [ngDblClick](#ngDblClick)
- * [ngMessages](#ngMessages)
+ * [ngModel](#ngmodel)
+ * [ngDisabled](#ngdisabled)
+ * [ngRequired](#ngrequired)
+ * [ngReadonly](#ngreadonly)
+ * [ngChecked](#ngchecked)
+ * [ngValue](#ngvalue)
+ * [ngShow](#ngshow)
+ * [ngHide](#nghide)
+ * [ngClick](#ngclick)
+ * [ngDblClick](#ngdblclick)
+ * [ngMessages](#ngmessages)
 
 ## ngModel
 
