@@ -2,7 +2,7 @@
 
 ## Tabela de conteúdo
 
-  1. [Acessibilidade com ngAria](#acessibilidade-com-ngAria)
+  1. [Acessibilidade com ngAria](#acessibilidade-com-ngaria)
     - [Incluindo ngAria](#incluindo-ngAria)
   1. [Usando ngAria](#usando-ngAria)
   1. [Diretivas suportadas](#diretivas-suportadas)
